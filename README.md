@@ -3,17 +3,17 @@
 This app has been built using Streamlit and deployed with Streamlit Community Cloud.
 
 🔗 **Visit the app here**: [https://loaneligibilitymodelsolution-mvod549ftbu3ep35hs9rtf.streamlit.app/]  
-🔐 **Password** (if needed): `streamlit`
+ **Password** (if needed): `streamlit`
 
 ---
 
-## 📋 Description
+## Description
 
 This app predicts whether a user is eligible for a loan using classification techniques based on the UCI Credit Approval dataset.
 
 ---
 
-## 📁 Dataset
+## Dataset
 
 The model is trained on a structured dataset with features such as:
 - Applicant income
@@ -27,7 +27,7 @@ The model is trained on a structured dataset with features such as:
 
 ---
 
-## ⚙️ Technologies Used
+## Technologies Used
 
 - **Streamlit** – For building the interactive web application  
 - **Scikit-learn** – For model training and evaluation  
@@ -36,13 +36,13 @@ The model is trained on a structured dataset with features such as:
 
 ---
 
-## 🤖 Model Summary
+##  Model Summary
 
 Trained using Logistic Regression. Includes preprocessing with one-hot encoding, scaling, and stratified train/test splitting.
 
 ---
 
-## 🚀 Future Enhancements
+## Future Enhancements
 
 - Add support for additional datasets  
 - Incorporate explainability tools like SHAP or LIME  
@@ -50,7 +50,7 @@ Trained using Logistic Regression. Includes preprocessing with one-hot encoding,
 
 ---
 
-## 🧪 Local Installation
+## Local Installation
 
 ```bash
 git clone https://github.com/zoezoe513/Loan_Eligibility_Model_Solution
